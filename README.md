@@ -15,7 +15,7 @@
 
 </br>
 </br>
-
+![Prify Sherry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SherryPham&hide=["stars"]&show_icons=true)
 
 </br>
 </br>
