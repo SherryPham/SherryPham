@@ -7,11 +7,13 @@
 
 <p align="center">
   <strong><a href="">Twitter</a></strong> |
-  <strong><a href="anhthuphamtran1704@gmail.com">Gmail</a></strong> |
+  <strong><a href="mailto:anhthuphamtran1704@gmail.com">Gmail</a></strong> |
   <strong><a href="https://www.linkedin.com/in/anh-thu-pham-tran-98417b267/">LinkedIn</a></strong> 
 </p>
 
 <p align="center">❤ Hi there! I am a cybersecurity student passionate about network security and ethical hacking.</p>
+</br>
+</br>
 
 ## About ME 💬 :
 
@@ -39,7 +41,6 @@
 
 </br>
 </br>
-</br>
 
 ## Languages & Tools 👨‍💻 🛠:
 
@@ -53,5 +54,3 @@
 </br>
 </br>
 </br>
-
-anhthuphamtran1704@gmail.com
