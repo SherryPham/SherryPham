@@ -15,7 +15,7 @@
 
 </br>
 </br>
-![Sherry's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SherryPham&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
 
 </br>
 </br>
