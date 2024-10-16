@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">❤ Hi there! I am a cybersecurity student passionate about network security and ethical hacking.</p>
+
 </br>
 </br>
----
 
 ## About ME 💬 :
 
@@ -41,7 +41,6 @@
 
 </br>
 </br>
----
 
 ## Languages & Tools 👨‍💻 🛠:
 
