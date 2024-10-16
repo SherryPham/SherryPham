@@ -15,7 +15,7 @@
 
 </br>
 </br>
-![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherryPham&theme=dark&show_icons=true)
+
 
 </br>
 </br>
