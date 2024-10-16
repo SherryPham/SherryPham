@@ -34,7 +34,6 @@
 - ✨ Malware Analysis
 - ✨ Advance Switching
 - ✨ IT Security
-- 🌱 I’m currently learning **ReactJS**
 
 ### Learning :
 
