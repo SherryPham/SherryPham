@@ -14,18 +14,16 @@
 <p align="center">❤ Hi there! I am a cybersecurity student passionate about network security and ethical hacking.</p>
 
 </br>
-</br>
 
 ---
 
-</br>
 </br>
 
 ## About ME 💬 :
 
 ### I'm 20 years old Cyber Security Enthusiastic girl from Vietnam.
 
-### Learning :
+### Studied :
 
 - ✨ Network Administration
 - ✨ Network and Switching
@@ -38,11 +36,16 @@
 - ✨ IT Security
 - 🌱 I’m currently learning **ReactJS**
 
+### Learning :
+
+- 🌱 I’m currently learning **ReactJS**
+
 ### Hobbies :
 
 - ✨ Playing Piano
 - ✨ Watching Anime
 - ✨ Playing Games
+- ✨ Reading Books
 
 </br>
 </br>
