@@ -5,11 +5,15 @@
 <h1 align="center">Hi, I'm Sherry!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
+</br>
+</br>
 <p align="center">
   <strong><a href="">Twitter</a></strong> |
   <strong><a href="mailto:anhthuphamtran1704@gmail.com">Gmail</a></strong> |
   <strong><a href="https://www.linkedin.com/in/anh-thu-pham-tran-98417b267/">LinkedIn</a></strong> 
 </p>
+</br>
+</br>
 
 <p align="center">❤ Hi there! I am a cybersecurity student passionate about network security and ethical hacking.</p>
 </br>
