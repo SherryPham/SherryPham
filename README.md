@@ -31,12 +31,16 @@
 - ✨ Advance Switching
 - ✨ IT Security
 
+---
+
+- 🌱 I’m currently learning **ReactJS**
+
 ### Hobbies :
 
 - ✨ Playing Piano
 - ✨ Watching Anime
 - ✨ Playing Games
-  </br>
+
 - 🌱 I’m currently learning **ReactJS**
 
 </br>
