@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Hi, I'm Sherry!</h1>
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+<h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
-  <strong><a href="">Twitter</a></strong> |
+  <strong><a href="https://x.com/SherriePhtr">Twitter</a></strong> |
   <strong><a href="mailto:anhthuphamtran1704@gmail.com">Gmail</a></strong> |
   <strong><a href="https://www.linkedin.com/in/anh-thu-pham-tran-98417b267/">LinkedIn</a></strong> 
 </p>
