@@ -52,8 +52,8 @@
 <a href="https://github.com/SherryPham/Anime-App">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SherryPham&repo=Anime-App&theme=radical" />
 </a>    
-<a href="https://github.com/vietnh1009/ASCII-generator/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
+<a href="https://github.com/SherryPham/TECHNIES">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SherryPham&repo=TECHNIES&theme=merko" />
 </a>
 
 <a href="https://github.com/vietnh1009/Flappy-bird-deep-Q-learning-pytorch/">
