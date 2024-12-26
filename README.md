@@ -91,11 +91,6 @@
 
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-![Prify Sherry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SherryPham&hide=["stars"]&show_icons=true)
-
-<a href="https://github.com/SherryPham">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherryPham&layout=compact" />
-</a>
 
 ---
 
