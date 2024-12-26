@@ -56,18 +56,11 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SherryPham&repo=TECHNIES&theme=merko" />
 </a>
 
-<a href="https://github.com/vietnh1009/Flappy-bird-deep-Q-learning-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+<a href="https://github.com/SherryPham/keylogger">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SherryPham&repo=keylogger&theme=onedark" />
 </a>    
-<a href="https://github.com/vietnh1009/Tetris-deep-Q-learning-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
-</a>
-
-<a href="https://github.com/vietnh1009/AirGesture/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=AirGesture&theme=synthwave" />
-</a>    
-<a href="https://github.com/vietnh1009/Yolo-v2-pytorch/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Yolo-v2-pytorch&theme=highcontrast" />
+<a href="https://github.com/SherryPham/ToDoList">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SherryPham&repo=ToDoList&theme=cobalt" />
 </a>
 
 
