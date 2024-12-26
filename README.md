@@ -69,7 +69,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 </br>
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Sherry's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SherryPham&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
 ---
