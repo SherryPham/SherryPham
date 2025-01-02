@@ -12,7 +12,6 @@
   <strong><a href="https://www.linkedin.com/in/anh-thu-pham-tran-98417b267/">LinkedIn</a></strong> 
 </p>
 
-<p align="center">❤ Hi there! I am a cybersecurity student passionate about network security and ethical hacking.</p>
 
 </br>
 
