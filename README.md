@@ -3,6 +3,11 @@
 
 ## Welcome to my Github profile !
 
+[![My Facebook](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/Amber.Rum.306)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anh-thu-pham-tran-98417b267/)
+
+## I'm a Hightech Research Engineer, an Applied Scientist, a Full-stack Developer, and a Free-Time Blogger 🥲!!
+
 
 <h3 align="center">You can contact me at:</h3>
 <p align="center">
