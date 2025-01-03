@@ -17,9 +17,9 @@
 </p>
 </br>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About ME  :
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About ME  
 
-### I'm a Computer Science student major in Cybersecurity in Swinburne University !!
+### I'm a Computer Science student major in Cybersecurity in Swinburne University !
 
 ### Studied :
 
@@ -33,11 +33,11 @@
 - ✨ Advance Switching
 - ✨ IT Security
 
-### Learning :
+### Learning 
 
 - 🌱 I’m currently learning **ReactJS**
 
-### Hobbies :
+### Hobbies 
 
 - ✨ Playing Piano
 - ✨ Playing Games
@@ -46,7 +46,7 @@
 </br>
 
 ---
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some of my Repos:
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some of my Repos
 </br>
 <a href="https://github.com/SherryPham/Anime-App">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SherryPham&repo=Anime-App&theme=radical" />
