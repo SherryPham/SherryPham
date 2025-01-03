@@ -102,5 +102,8 @@
 
 ![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherryPham&show_icons=true&count_private=true&theme=tokyonight)
 
+</br?
+
+![Kita Ikuyo Rap](/kita-ikuyo-rap.webp)
 
 
