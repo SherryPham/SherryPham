@@ -1,6 +1,6 @@
 
 # Hi there, I'm Sherry 👋 
-### Welcome to my Github profile !
+## Welcome to my Github profile !
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Contact+Me+If+You+Want+To+Work+Together)
 
