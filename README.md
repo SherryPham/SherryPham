@@ -3,8 +3,9 @@
 
 ## Welcome to my Github profile !
 
-[![My Facebook](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/Amber.Rum.306)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anh-thu-pham-tran-98417b267/)
+[![My Facebook Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/profile.php?id=100030256832186)  
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anh-thu-pham-tran-98417b267/)  
+[![My Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anhthuphamtran1704@gmail.com)  
 
 ## I'm a Hightech Research Engineer, an Applied Scientist, a Full-stack Developer, and a Free-Time Blogger 🥲!!
 
