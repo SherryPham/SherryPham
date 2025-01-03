@@ -19,7 +19,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About ME  :
 
-### I'm a Hightech Research Engineer, an Applied Scientist, a Full-stack Developer, and a Free-Time Blogger 🥲!!
+### I'm a Computer Science student major in Cybersecurity in Swinburne University !!
 
 ### Studied :
 
