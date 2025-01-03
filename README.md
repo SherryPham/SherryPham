@@ -21,31 +21,12 @@
 
 ### I'm a Computer Science student major in Cybersecurity in Swinburne University !
 
-### Studied :
-
-- ✨ Network Administration
-- ✨ Network and Switching
-- ✨ Network Routing Principle
-- ✨ Cloud Computing Architecture
-- ✨ Network Security and Resilience
-- ✨ Cybersecurity for Engineering Applications
-- ✨ Malware Analysis
-- ✨ Advance Switching
-- ✨ IT Security
-
-### Learning 
-
-- 🌱 I’m currently learning **ReactJS**
-
-### Hobbies 
-
-- ✨ Playing Piano
-- ✨ Playing Games
-- ✨ Reading Books
-
+- 📚 Currently, I’m on a learning spree – I’m diving into everything! 🤣
+- 🧠 My biggest passion right now is Cybersecurity!
+- 🎶 Hobbies: I love travelling, reading books, writing blogs, composing music, and jamming on my piano! 🎹
+- 🤝 Feel free to reach out if you’re interested in collaborating!
 </br>
 
----
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some of my Repos
 </br>
 <a href="https://github.com/SherryPham/Anime-App">
