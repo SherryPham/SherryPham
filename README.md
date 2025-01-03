@@ -100,11 +100,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 </br>
 
-![Sherry's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SherryPham&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherryPham&show_icons=true&count_private=true&theme=tokyonight)
 
 
----
 
-</br>
-</br>
-</br>
