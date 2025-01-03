@@ -1,6 +1,5 @@
 
 # Hi there, I'm Sherry 👋 
-
 ## Welcome to my Github profile !
 
 <p>
@@ -14,17 +13,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
-## I'm a Hightech Research Engineer, an Applied Scientist, a Full-stack Developer, and a Free-Time Blogger 🥲!!
-
-
-<h3 align="center">You can contact me at:</h3>
-<p align="center">
-  <strong><a href="https://x.com/SherriePhtr">Twitter</a></strong> |
-  <strong><a href="mailto:anhthuphamtran1704@gmail.com">Gmail</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/anh-thu-pham-tran-98417b267/">LinkedIn</a></strong> 
-</p>
-
 
 </br>
 
