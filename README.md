@@ -2,7 +2,9 @@
 # Hi there, I'm Sherry 👋 
 ### Welcome to my Github profile !
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Contact+Me+If+You+Want+To+Work+Together)
+<div style="text-align: right;">
+  <img src="https://readme-typing-svg.herokuapp.com/?width=600&lines=Contact+Me+If+You+Want+To+Work+Together" alt="Typing SVG">
+</div>
 
 <p>
   <a href="https://www.facebook.com/profile.php?id=100030256832186">
