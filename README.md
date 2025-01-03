@@ -1,9 +1,9 @@
 <p align="center">
   <img src="kita-ikuyo-rap.webp" alt="Banner">
 </p>
+# Hi there, I'm Sherry 👋 
+## Welcome to my Github profile !
 
-<h1 align="center">Hi, I'm Sherry!</h1>
-<h2 align="center">Welcome to my GitHub profile</h2>
 
 <h3 align="center">You can contact me at:</h3>
 <p align="center">
