@@ -1,7 +1,9 @@
 <p align="center">
   <img src="kita-ikuyo-rap.webp" alt="Banner">
 </p>
+
 # Hi there, I'm Sherry 👋 
+
 ## Welcome to my Github profile !
 
 
