@@ -77,26 +77,6 @@
 </br>
 
 
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some of my Repos
-</br>
-<a href="https://github.com/SherryPham/Anime-App">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SherryPham&repo=Anime-App&theme=radical" />
-</a>    
-<a href="https://github.com/SherryPham/TECHNIES">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SherryPham&repo=TECHNIES&theme=merko" />
-</a>
-
-
-<a href="https://github.com/SherryPham/keylogger">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SherryPham&repo=keylogger&theme=onedark" />
-</a>    
-<a href="https://github.com/SherryPham/ToDoList">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SherryPham&repo=ToDoList&theme=cobalt" />
-</a>
-
-
----
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 </br>
 
