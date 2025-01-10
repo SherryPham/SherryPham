@@ -30,7 +30,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Skills
 
-<img src="https://img.shields.io/badge/Cisco-1A4D7B?style=for-the-badge&logo=cisco&logoColor=white"> <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1A6CD6?style=for-the-badge&logo=cisco&logoColor=white"> <img src="https://img.shields.io/badge/TCPDUMP-1A6CD6?style=for-the-badge&logo=tcpdump&logoColor=white">
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1A6CD6?style=for-the-badge&logo=cisco&logoColor=white"> <img src="https://img.shields.io/badge/Cisco-1A4D7B?style=for-the-badge&logo=cisco&logoColor=white">  <img src="https://img.shields.io/badge/TCPDUMP-1A6CD6?style=for-the-badge&logo=tcpdump&logoColor=white">
 
 <img src="https://img.shields.io/badge/Metasploit-980000?style=for-the-badge&logo=metasploit&logoColor=white"> <img src="https://img.shields.io/badge/NSA%20SELinux-0A63A7?style=for-the-badge&logo=selinux&logoColor=white"> <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white">
 
