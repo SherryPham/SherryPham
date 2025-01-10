@@ -8,12 +8,13 @@
   <a href="https://www.facebook.com/profile.php?id=100030256832186">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger">
   </a>
+   <a href="mailto:anhthuphamtran1704@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
   <a href="https://www.linkedin.com/in/anh-thu-pham-tran-98417b267/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:anhthuphamtran1704@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+ 
 </p>
 </br>
 
