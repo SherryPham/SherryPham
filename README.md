@@ -86,7 +86,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SherryPham&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-  <img src="/simple-cat-coding-laptop-tech-600nw-2269043357.webp" alt="cat img" width="200">
 
 </br>
 
