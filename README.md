@@ -2,7 +2,7 @@
 ## Welcome to my Github profile !
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Contact+Me+If+You+Want+To+Work+Together)
-<div>
+
 <p>
   <a href="https://www.facebook.com/profile.php?id=100030256832186">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger">
@@ -14,11 +14,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-</div>
-<div>
-  <img src="/simple-cat-coding-laptop-tech-600nw-2269043357.webp" alt="cat img" width="200">
-</div>
-
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About ME  
 
@@ -91,7 +86,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SherryPham&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SherryPham&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img src="/simple-cat-coding-laptop-tech-600nw-2269043357.webp" alt="cat img" width="200">
 
 </br>
 
