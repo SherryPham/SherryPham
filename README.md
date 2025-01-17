@@ -1,22 +1,28 @@
 
-# Hi there, I'm Sherry 👋 
-## Welcome to my Github profile !
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h1>Hi there, I'm Sherry 👋</h1>
+    <h2>Welcome to my Github profile!</h2>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Contact+Me+If+You+Want+To+Work+Together)
+    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Contact+Me+If+You+Want+To+Work+Together)
 
-<p>
-  <a href="https://www.facebook.com/profile.php?id=100030256832186">
-    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger">
-  </a>
-   <a href="mailto:anhthuphamtran1704@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/anh-thu-pham-tran-98417b267/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-  <img src="/simple-cat-coding-laptop-tech-600nw-2269043357.webp" alt="cat img" width="180">
-</br>
+    <p>
+      <a href="https://www.facebook.com/profile.php?id=100030256832186">
+        <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger">
+      </a>
+      <a href="mailto:anhthuphamtran1704@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      </a>
+      <a href="https://www.linkedin.com/in/anh-thu-pham-tran-98417b267/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </p>
+  </div>
+  <div>
+    <img src="/simple-cat-coding-laptop-tech-600nw-2269043357.webp" alt="cat img" width="200">
+  </div>
+</div>
+
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About ME  
 
