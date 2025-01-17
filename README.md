@@ -1,5 +1,5 @@
 <div> 
-  <img src="Welcome to my Github banner.png" alt="banner"> 
+  <img src="Welcome to my GitHub banner.png" alt="banner"> 
 </div>
 
 # Hi there, I'm Sherry 👋 
