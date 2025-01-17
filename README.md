@@ -86,8 +86,6 @@
 
 </br>
 
-<p>
-  <img src="/kita-ikuyo-rap.webp" alt="Kita Ikuyo Rap">
-</p>
+
 
 
