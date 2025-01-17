@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-  <img src="/simple-cat-coding-laptop-tech-600nw-2269043357.webp" alt="cat img" width="120">
+  <img src="/simple-cat-coding-laptop-tech-600nw-2269043357.webp" alt="cat img" width="180">
 </br>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About ME  
