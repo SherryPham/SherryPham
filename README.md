@@ -1,3 +1,7 @@
+<div> 
+  <img src="welcome-to-my-github-banner.png" alt="banner"> 
+</div>
+
 # Hi there, I'm Sherry 👋 
 ## Welcome to my Github profile !
 
