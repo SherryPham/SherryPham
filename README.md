@@ -85,9 +85,9 @@
 
 ![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherryPham&show_icons=true&count_private=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SherryPham&theme=tokyonight&hide_border=false)
+![Sherry's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=SherryPham&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SherryPham&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SherryPham&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
