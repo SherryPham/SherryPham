@@ -2,7 +2,8 @@
   <img src="banner.png" alt="banner"> 
 </div>
 
-# Hi there, I'm Sherry 👋 
+# Hi there, I'm Sherry 👋
+
 ## Welcome to my Github profile !
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Contact+Me+If+You+Want+To+Work+Together)
@@ -19,24 +20,23 @@
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About ME  
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About ME
 
 ### I'm a Computer Science student major in Cybersecurity in Swinburne University !
 
-- 📚 Currently, I’m on a learning spree – I’m diving into everything! 
+- 📚 Currently, I’m on a learning spree – I’m diving into everything!
 - 🧠 My biggest passion right now is Cybersecurity and Networking!
 - 🎶 Hobbies: I love travelling, reading books, writing blogs, composing music, and jamming on my piano! 🎹
 - 🤝 Feel free to reach out if you’re interested in collaborating!
-</br>
+  </br>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Skills
 
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1A6CD6?style=for-the-badge&logo=cisco&logoColor=white"> <img src="https://img.shields.io/badge/Cisco-1A4D7B?style=for-the-badge&logo=cisco&logoColor=white">  <img src="https://img.shields.io/badge/TCPDUMP-1A6CD6?style=for-the-badge&logo=tcpdump&logoColor=white">
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1A6CD6?style=for-the-badge&logo=cisco&logoColor=white"> <img src="https://img.shields.io/badge/Cisco-1A4D7B?style=for-the-badge&logo=cisco&logoColor=white"> <img src="https://img.shields.io/badge/TCPDUMP-1A6CD6?style=for-the-badge&logo=tcpdump&logoColor=white">
 
 <img src="https://img.shields.io/badge/Metasploit-980000?style=for-the-badge&logo=metasploit&logoColor=white"> <img src="https://img.shields.io/badge/NSA%20SELinux-0A63A7?style=for-the-badge&logo=selinux&logoColor=white"> <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white">
 
 <img src="https://img.shields.io/badge/Kali%20Linux-557C8D?style=for-the-badge&logo=kali&logoColor=white"> <img src="https://img.shields.io/badge/Wireshark-167F60?style=for-the-badge&logo=wireshark&logoColor=white"> <img src="https://img.shields.io/badge/Snort-009900?style=for-the-badge&logo=snort&logoColor=white"> <img src="https://img.shields.io/badge/OWASP%20ZAP-2E2E2E?style=for-the-badge&logo=owasp&logoColor=white"> <img src="https://img.shields.io/badge/Suricata-6A5ACD?style=for-the-badge&logo=suricata&logoColor=white"> <img src="https://img.shields.io/badge/Fiddler-005571?style=for-the-badge&logo=fiddler&logoColor=white">
-
 
 <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src = "https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"> <img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
 
@@ -50,10 +50,10 @@
 
 <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"> <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 
-<img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> <img src = "https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"> 
+<img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> <img src = "https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
 
 <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"> <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">  
-<img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> 
+<img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 
 <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 
@@ -75,12 +75,12 @@
 
 <img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white">
 
-<img src = "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> <img src = "https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"> <img src = "https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"> <img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> 
+<img src = "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> <img src = "https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"> <img src = "https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"> <img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 
 </br>
 
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+
 </br>
 
 ![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherryPham&show_icons=true&count_private=true&theme=tokyonight)
@@ -91,6 +91,8 @@
 
 </br>
 
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SherryPham/SherryPham/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SherryPham/SherryPham/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/SherryPham/output/github-snake.svg" />
+</picture>
