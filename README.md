@@ -84,7 +84,7 @@
 </br>
 
 ![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherryPham&show_icons=true&count_private=true&theme=tokyonight)
-![Sherry's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=10&theme=tokyonight)
+![Sherry's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SherryPham&layout=compact&langs_count=10&theme=tokyonight)
 
 
 ---
