@@ -85,7 +85,6 @@
 
 ![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherryPham&show_icons=true&count_private=true&theme=tokyonight)
 
-![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SherryPham&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
