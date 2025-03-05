@@ -24,7 +24,7 @@
 
 ### I'm a Computer Science student major in Cybersecurity in Swinburne University !
 
-- 📚 Currently, I’m on a learning spree – I’m diving into everything!
+- 📚 I'm currently focusing on malware analysis, with a particular emphasis on analyzing polymorphic and metamorphic malware using ML techniques.
 - 🧠 My biggest passion right now is Cybersecurity and Networking!
 - 🎶 Hobbies: I love travelling, reading books, writing blogs, composing music, and jamming on my piano! 🎹
 - 🤝 Feel free to reach out if you’re interested in collaborating!
