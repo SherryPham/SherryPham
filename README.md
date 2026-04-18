@@ -2,7 +2,7 @@
 # Hi there, I'm Sherry 👋
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Welcome+To+My+Git+Hub)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Welcome+To+My+GitHub)
 
 <p>
   <a href="https://www.facebook.com/profile.php?id=100030256832186">
